@@ -26,3 +26,9 @@
     
 ## quen mat khau
 -- quen pass
+
+## dang ky
+- username: admin
+- password: 123456
+- phone: 11111111190
+- email: admin@gmail.com
